@@ -1,5 +1,5 @@
-This dashboard shows th data about tv shows and movies on netflix
+This dashboard shows the data about tv shows and movies on netflix
 
-the data contain the id, title, genres, rating and countries
+the data contains the id, titles, genres, ratings and countries
 
 thanks.
